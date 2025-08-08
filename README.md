@@ -10,12 +10,15 @@
 
 </div>
 
+<div align="center">
+
 A powerful desktop application designed for stress-testing email-dependent systems by sending bulk emails with unique, AI-generated content using the Google Gemini API.
 
-![Application Screenshot](<https://i.imgur.com/your-screenshot-filename.png>)
+![Application Screenshot](<https://i.imgur.com/eecmen9.png>)
 > **Note:** Take a screenshot of your finished application and replace the link above. You can upload your screenshot to a site like [Imgur](https'://imgur.com/upload') to get a link.
 
----
+</div>
+
 
 ## Key Features
 
