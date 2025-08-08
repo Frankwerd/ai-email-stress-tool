@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![License](https://img.shields.io/github/license/Frankwerd/ai-email-stress-tool?style=for-the-badge)
+![License](https://img.shields.io/github/license/Frankwerd/ai-email-stress-tool?style=for-the-badge&cache_bust=1)
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python)
 ![Built With](https://img.shields.io/badge/built%20with-ttkbootstrap-orange?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Frankwerd/ai-email-stress-tool?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/github/issues/Frankwerd/ai-email-stress-tool?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Frankwerd/ai-email-stress-tool?style=for-the-badge&logo=github&cache_bust=1)
+![Issues](https://img.shields.io/github/issues/Frankwerd/ai-email-stress-tool?style=for-the-badge&cache_bust=1)
 
 </div>
 
