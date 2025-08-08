@@ -41,7 +41,6 @@ A powerful desktop application designed for stress-testing email-dependent syste
 No installation is needed. Just download the application and run it.
 
 1.  Go to the **[Releases](https://github.com/Frankwerd/ai-email-stress-tool/releases)** section of this repository.
-    > **Action:** Replace `Frankwerd/ai-email-stress-tool` with your actual GitHub username and repository name.
 2.  Download the `main.exe` file from the latest release.
 3.  Double-click `main.exe` to launch the application.
 
@@ -60,8 +59,6 @@ If you want to run the project from the source code or contribute to its develop
     git clone https://github.com/Frankwerd/ai-email-stress-tool.git
     cd ai-email-stress-tool
     ```
-    > **Action:** Replace `Frankwerd/ai-email-stress-tool` with your URL.
-
 2.  **Create and activate a virtual environment:**
     ```sh
     # Create the environment
@@ -102,7 +99,6 @@ The final executable will be located in the `dist/` folder.
 ## License
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
-> **Suggestion:** Create a new file in your repository named `LICENSE` and paste the text of the MIT license into it. You can find the text [here](https://opensource.org/licenses/MIT).
 
 ## Contact
 
