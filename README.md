@@ -15,7 +15,6 @@
 A powerful desktop application designed for stress-testing email-dependent systems by sending bulk emails with unique, AI-generated content using the Google Gemini API.
 
 ![Application Screenshot](<https://i.imgur.com/eecmen9.png>)
-> **Note:** Screenshot of the final application. You can download the .exe in releases.
 
 </div>
 
